@@ -1,6 +1,6 @@
 # %load dnatorna.py
 """
-Convert DNA sequences to RNA
+Convert DNA sequences to RNA. Returned sequences have the sample capitalization as input sequence.
 """
 def rna(seq):
     """
